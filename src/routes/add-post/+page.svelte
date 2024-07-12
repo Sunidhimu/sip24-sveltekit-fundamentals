@@ -112,7 +112,7 @@
         border: 2px;
         border-style: dotted;
         padding: 10px 20px;
-        border-radius: 5px;
+        border-radius:6px;
         font-size: 14px;
     }
 
